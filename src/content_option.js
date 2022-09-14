@@ -93,6 +93,11 @@ const dataportfolio = [
     desctiption: "Booking application like booking.com is built using React",
     link: "https://github.com/alifhs/booking-ui-react",
   },
+  {
+    img: "https://picsum.photos/400/800/?grayscale",
+    desctiption: "Advanced Task-Management/Edtech website",
+    link: "https://staging.tips.virtunus.com/",
+  },
 ];
 
 const contactConfig = {
