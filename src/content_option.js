@@ -13,7 +13,7 @@ const introdata = {
     third: "I develop mobile apps",
   },
   description:
-    "I'm a professional Software Engineer with more than 1 year of experiences and adept in React, Next, Node.js, React Native",
+    "I'm a professional Software Engineer with more than 1 year of experience and adept in React, Next, Node.js, React Native",
   your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
