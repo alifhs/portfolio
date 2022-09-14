@@ -95,8 +95,19 @@ const dataportfolio = [
   },
   {
     img: "https://picsum.photos/400/800/?grayscale",
-    desctiption: "Advanced Task-Management/Edtech website",
+    desctiption:
+      "Advanced Task-Management/Edtech website built using NextJS, Antd",
     link: "https://staging.tips.virtunus.com/",
+  },
+  {
+    img: "https://picsum.photos/400/800/?grayscale",
+    desctiption: "Landing page for Edtech using NextJS",
+    link: "https://communative.io/",
+  },
+  {
+    img: "https://picsum.photos/400/800/?grayscale",
+    desctiption: "Problem Solving in different Online Judges",
+    link: "https://stopstalk.com/user/profile/countryroads/",
   },
 ];
 
@@ -115,7 +126,7 @@ const contactConfig = {
 const socialprofils = {
   github: "https://github.com/alifhs",
   facebook: "https://facebook.com",
-  linkedin: "https://linkedin.com",
+  linkedin: "https://linkedin.com/in/alif-hossain-sourob",
   twitter: "https://twitter.com",
   youtube: "https://youtube.com",
   twitch: "https://twitch.com",
