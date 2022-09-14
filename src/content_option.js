@@ -1,4 +1,4 @@
-const logotext = "Alif";
+const logotext = "alifhs";
 const meta = {
   title: "Alif Hossain Sourob",
   description:
@@ -24,42 +24,42 @@ const dataabout = {
 };
 const worktimeline = [
   {
-    jobtitle: "Designer of week",
-    where: "YAdfi",
+    jobtitle: "Software Engineer",
+    where: "Codeiolab",
+    date: "2021 - present",
+  },
+  {
+    jobtitle: "Software Development Intern",
+    where: "Banglalink Digital",
     date: "2020",
   },
-  {
-    jobtitle: "Designer of week",
-    where: "Jamalya",
-    date: "2019",
-  },
-  {
-    jobtitle: "Designer of week",
-    where: "ALquds",
-    date: "2019",
-  },
+  //   {
+  //     jobtitle: "Designer of week",
+  //     where: "ALquds",
+  //     date: "2019",
+  //   },
 ];
 
 const skills = [
   {
-    name: "Python",
+    name: "Javascript",
     value: 90,
   },
   {
-    name: "Djano",
+    name: "React",
     value: 85,
   },
   {
-    name: "Javascript",
+    name: "NextJS",
     value: 80,
   },
   {
-    name: "React",
-    value: 60,
+    name: "NodeJS/Express",
+    value: 80,
   },
   {
-    name: "Jquery",
-    value: 85,
+    name: "React Native",
+    value: 40,
   },
 ];
 
@@ -85,81 +85,19 @@ const dataportfolio = [
   {
     img: "https://picsum.photos/400/?grayscale",
     desctiption:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+      "Realtime Chat application is built using Node.js React, Socket.IO",
+    link: "https://github.com/alifhs/chat-app-socketIO",
   },
   {
     img: "https://picsum.photos/400/800/?grayscale",
-    desctiption:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/?grayscale",
-    desctiption:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/600/?grayscale",
-    desctiption:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/300/?grayscale",
-    desctiption:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/700/?grayscale",
-    desctiption:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-
-  {
-    img: "https://picsum.photos/400/600/?grayscale",
-    desctiption:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/300/?grayscale",
-    desctiption:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/?grayscale",
-    desctiption:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/550/?grayscale",
-    desctiption:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/?grayscale",
-    desctiption:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/700/?grayscale",
-    desctiption:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    desctiption: "Booking application like booking.com is built using React",
+    link: "https://github.com/alifhs/booking-ui-react",
   },
 ];
 
 const contactConfig = {
-  YOUR_EMAIL: "name@domain.com",
-  YOUR_FONE: "(555)123-4567",
+  YOUR_EMAIL: "alif.hs@outlook.com",
+  YOUR_FONE: "01627410478",
   description:
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
   // creat an emailjs.com account
@@ -170,7 +108,7 @@ const contactConfig = {
 };
 
 const socialprofils = {
-  github: "https://github.com",
+  github: "https://github.com/alifhs",
   facebook: "https://facebook.com",
   linkedin: "https://linkedin.com",
   twitter: "https://twitter.com",
