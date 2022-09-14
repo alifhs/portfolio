@@ -46,10 +46,13 @@
 }
 
 .po_item .content {
-    opacity: 0;
+    opacity: 1;
     transition-delay: 1s;
     transition: 0.3s ease;
     font-size: 20px;
+    height: calc(100% - 15px);
+    width: calc(100% - 15px);
+
 }
 
 .po_item:hover {
